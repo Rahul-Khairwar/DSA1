@@ -1,0 +1,19 @@
+
+c++ Basic concept ----
+
+#--preprocessor
+
+incluede-- folder name where header file exist.
+
+iostream-- it is content libraries 
+
+Namespace --It is the collection of identifires.....
+
+
+Cout -- it is a object of iostream
+
+::  --scope resolution operator-- It is use to get access global variable(In case of duplicacy of variable).
+
+return 0-- it is the success rate of the program .
+
+
