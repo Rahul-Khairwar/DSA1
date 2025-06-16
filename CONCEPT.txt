@@ -5,7 +5,7 @@ c++ Basic concept ----
 
 incluede-- folder name where header file exist.
 
-iostream-- it is content libraries 
+iostream-- it  contains libraries 
 
 Namespace --It is the collection of identifires.....
 
